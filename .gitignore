@@ -1,0 +1,15 @@
+*~
+*.#*
+*#*#
+*.swp
+*.ipr
+*.iml
+*.iws
+*.pyc
+*.pyo
+.idea/
+.idea_modules/
+*/target/
+*generatorConfig.xml
+output/*
+*.log
